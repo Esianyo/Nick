@@ -32,10 +32,10 @@ I will update this README and the repository as I make progress through the cour
 
 If you have any questions, suggestions, or just want to connect, you can reach me through any of the media below:
 
-[Email](mailto:esianicd@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/esianyo)
-[Facebook](https://www.facebook.com/esianyod)
-[Instagram](https://www.instagram.com/esianyo__)
+[Email](mailto:esianicd@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/esianyo) |
+[Facebook](https://www.facebook.com/esianyod) |
+[Instagram](https://www.instagram.com/esianyo__) |
 [X](https://www.x.com/esianyo__)
 
 Happy coding!
